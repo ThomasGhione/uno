@@ -1,5 +1,7 @@
 #include "uno.h"
 
+//! CURRENTLY TRANSLATING INTO ENGLISH & DOCUMENTING THE CODE
+
 int main() {
 
     // TODO: finish implementing "special cards" (+2, +4, change color, change turn, block, etc)
